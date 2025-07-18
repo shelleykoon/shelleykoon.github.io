@@ -1,0 +1,317 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.468 line:90%
+If you have previously viewed 
+
+2
+00:00:01.468 --> 00:00:03.703 line:90%
+the web-based course navigation tutorial, 
+
+3
+00:00:03.703 --> 00:00:05.338 line:90%
+you may skip this section. 
+
+4
+00:00:06.806 --> 00:00:08.308 line:90%
+The training course will begin with the
+
+5
+00:00:08.308 --> 00:00:09.843 line:90%
+left-hand menu open.  
+
+6
+00:00:10.243 --> 00:00:11.711 line:90%
+To collapse the menu, 
+
+7
+00:00:11.711 --> 00:00:13.013 line:90%
+click on the hamburger.
+
+8
+00:00:13.013 --> 00:00:14.481 line:90%
+Clicking on the hamburger 
+
+9
+00:00:14.481 --> 00:00:15.482 line:90%
+when the menu is collapsed
+
+10
+00:00:15.482 --> 00:00:16.449 line:90%
+will expand it.
+
+11
+00:00:17.050 --> 00:00:19.352 line:90%
+The menu is broken down by sections 
+
+12
+00:00:19.352 --> 00:00:20.353 line:90%
+and lessons.  
+
+13
+00:00:20.453 --> 00:00:22.689 line:90%
+To collapse a section and hide the lessons
+
+14
+00:00:22.689 --> 00:00:23.957 line:90%
+click on the arrow.
+
+15
+00:00:24.557 --> 00:00:26.860 line:90%
+Clicking on the arrow when the section is 
+
+16
+00:00:26.860 --> 00:00:27.994 line:90%
+will expand it. 
+
+17
+00:00:30.897 --> 00:00:32.665 line:90%
+There are two ways to navigate 
+
+18
+00:00:32.665 --> 00:00:33.266 line:90%
+between lessons.
+
+19
+00:00:33.266 --> 00:00:34.300 line:90%
+The first is to click the banner
+
+20
+00:00:34.300 --> 00:00:36.770 line:90%
+at the bottom of the page.  
+
+21
+00:00:37.203 --> 00:00:39.105 line:90%
+To return to the previous lesson,  
+
+22
+00:00:39.105 --> 00:00:40.140 line:90%
+you may scroll up 
+
+23
+00:00:40.140 --> 00:00:41.241 line:90%
+and click on the banner
+
+24
+00:00:41.241 --> 00:00:42.742 line:90%
+at the top of the page. 
+
+25
+00:00:42.776 --> 00:00:44.978 line:90%
+You can also click directly on the desired
+
+26
+00:00:44.978 --> 00:00:46.946 line:90%
+lesson in the menu to the left. 
+
+27
+00:00:47.113 --> 00:00:49.416 line:90%
+ Please note some trainings require you to
+
+28
+00:00:49.416 --> 00:00:51.017 line:90%
+complete lessons in order 
+
+29
+00:00:51.017 --> 00:00:52.919 line:90%
+while others will allow you to freely
+
+30
+00:00:52.919 --> 00:00:53.853 line:90%
+visit topics.
+
+31
+00:00:55.922 --> 00:00:57.924 line:90%
+Web-based training offers unique
+
+32
+00:00:57.924 --> 00:01:00.126 line:90%
+user interactions within the content. 
+
+33
+00:01:00.293 --> 00:01:03.096 line:90%
+Some common user interactions may include:
+
+34
+00:01:03.663 --> 00:01:04.831 line:90%
+Tabbed Content:
+
+35
+00:01:04.831 --> 00:01:06.299 line:90%
+Which reveals additional topical content
+
+36
+00:01:06.299 --> 00:01:09.335 line:90%
+by clicking on each tab.
+
+37
+00:01:10.437 --> 00:01:11.004 line:90%
+Accordion Menus: 
+
+38
+00:01:11.004 --> 00:01:13.940 line:90%
+Are similar to Tabbed Content in that you
+
+39
+00:01:13.940 --> 00:01:16.242 line:90%
+can reveal additional information
+
+40
+00:01:16.242 --> 00:01:18.211 line:90%
+by clicking on the menu item.  
+
+41
+00:01:18.445 --> 00:01:19.746 line:90%
+Slideshow Galleries
+
+42
+00:01:19.746 --> 00:01:21.948 line:90%
+Can be navigated through by clicking on
+
+43
+00:01:21.948 --> 00:01:24.217 line:90%
+the arrows to the right and left of the
+
+44
+00:01:24.217 --> 00:01:27.253 line:90%
+image or clicking on the dots located
+
+45
+00:01:27.253 --> 00:01:32.425 line:90%
+below the images.
+
+46
+00:01:33.059 --> 00:01:34.227 line:90%
+Image Markers 
+
+47
+00:01:34.227 --> 00:01:36.396 line:90%
+when clicked on reveal additional
+
+48
+00:01:36.396 --> 00:01:38.865 line:90%
+information about the image being viewed.
+
+49
+00:01:40.900 --> 00:01:43.503 line:90%
+Knowledge check interactions include:
+
+50
+00:01:43.503 --> 00:01:44.904 line:90%
+Matching Cards: 
+
+51
+00:01:44.904 --> 00:01:46.806 line:90%
+Which allow you to click and drag the top
+
+52
+00:01:46.806 --> 00:01:49.175 line:90%
+card to the appropriate choice below.
+
+53
+00:01:49.509 --> 00:01:51.544 line:90%
+An incorrect answer will cause the card to
+
+54
+00:01:51.544 --> 00:01:53.546 line:90%
+return to the staring location
+
+55
+00:01:53.546 --> 00:01:55.682 line:90%
+while a correct answer will result in the
+
+56
+00:01:55.682 --> 00:01:58.351 line:90%
+card disappearing into the correct item.
+
+57
+00:01:59.018 --> 00:02:01.254 line:90%
+Matching Definition and Statements:
+
+58
+00:02:01.254 --> 00:02:04.124 line:90%
+Simply drag the item on the left to match
+
+59
+00:02:04.124 --> 00:02:08.995 line:90%
+the most appropriate choice on the right.
+
+60
+00:02:11.531 --> 00:02:14.200 line:90%
+The last most common interaction is that
+
+61
+00:02:14.200 --> 00:02:16.069 line:90%
+of choosing the most appropriate response
+
+62
+00:02:16.069 --> 00:02:18.004 line:90%
+ to a scenario by clicking one of the
+
+63
+00:02:18.004 --> 00:02:21.508 line:90%
+two options given.
+
+64
+00:02:28.114 --> 00:02:30.016 line:90%
+Progress in the course can be monitored by
+
+65
+00:02:30.016 --> 00:02:31.851 line:90%
+the user in two ways. 
+
+66
+00:02:31.851 --> 00:02:33.853 line:90%
+The first is a progress bar at the top 
+
+67
+00:02:33.853 --> 00:02:36.623 line:90%
+of the page.  As you complete the course,
+
+68
+00:02:36.623 --> 00:02:38.525 line:90%
+the progress bar will fill. 
+
+69
+00:02:38.525 --> 00:02:40.760 line:90%
+The second is a circle outline to the
+
+70
+00:02:40.760 --> 00:02:42.896 line:90%
+right of each lesson that will fill as you
+
+71
+00:02:42.896 --> 00:02:44.297 line:90%
+progress through the lesson.
+
+72
+00:02:44.297 --> 00:02:46.766 line:90%
+Upon lesson completion the outline will
+
+73
+00:02:46.766 --> 00:02:49.502 line:90%
+convert to a checkmark in a solid circle.
+
+74
+00:02:51.237 --> 00:02:52.939 line:90%
+To receive a completion credit for
+
+75
+00:02:52.939 --> 00:02:55.074 line:90%
+the training course, all lessons must have
+
+76
+00:02:55.074 --> 00:02:57.377 line:90%
+a solid circle and check mark to the right
+
+77
+00:02:57.544 --> 00:02:59.279 line:90%
+Remember that you must scroll all the way
+
+78
+00:02:59.279 --> 00:03:01.314 line:90%
+to the end of the lesson page to receive
+
+79
+00:03:01.314 --> 00:03:02.749 line:90%
+completion credit.
